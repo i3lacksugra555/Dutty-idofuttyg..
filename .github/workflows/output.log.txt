@@ -1,0 +1,941 @@
+2025-05-02 13:46:03.847 [warning] [Window] Ignoring the error while validating workspace folder vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration - ENOPRO: No file system provider found for resource 'vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration'
+2025-05-02 13:46:03.928 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-02 13:46:03.928 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-02 13:46:03.929 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-02 13:46:04.482 [info] [Views] Added views:workbench.panel.chat.view.copilot in workbench.panel.chat
+2025-05-02 13:46:04.482 [info] [Views] Added views:outline in workbench.view.explorer
+2025-05-02 13:46:04.482 [info] [Views] Added views:workbench.view.search in workbench.view.search
+2025-05-02 13:46:04.482 [info] [Views] Added views:workbench.scm in workbench.view.scm
+2025-05-02 13:46:04.482 [info] [Views] Added views:workbench.panel.markers.view in workbench.panel.markers
+2025-05-02 13:46:04.482 [info] [Views] Added views:workbench.panel.output in workbench.panel.output
+2025-05-02 13:46:04.482 [info] [Views] Added views:terminal in terminal
+2025-05-02 13:46:04.482 [info] [Views] Removed views:workbench.panel.chat.view.copilot from workbench.panel.chat
+2025-05-02 13:46:04.482 [info] [Views] Added views:timeline in workbench.view.explorer
+2025-05-02 13:46:04.482 [info] [Settings Sync] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-05-02 13:46:04.482 [info] [Settings Sync] [AutoSync] Enabled.
+2025-05-02 13:46:04.482 [info] [Settings Sync] [AutoSync] Suspended until auth token is available.
+2025-05-02 13:46:04.483 [info] [Window] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-02 13:46:04.609 [info] [Views] Added views:workbench.explorer.openEditorsView,workbench.explorer.fileView in workbench.view.explorer
+2025-05-02 13:46:04.622 [info] [Window] Found additional builtin extension gallery resources in env ["https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-server/1.5.2/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/azure-repos/0.40.0/extension","https://github.vscode-unpkg.net/GitHub/remotehub/0.64.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode/0.0.74/extension","https://github.vscode-unpkg.net/GitHub/vscode-pull-request-github/0.108.0/extension","https://github.vscode-unpkg.net/GitHub/codespaces/1.17.3/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-explorer/0.4.3/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.42.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-kotlin/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-php/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-typescript/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-python/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-java/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-c-sharp/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-cpp/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-rust/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-go/0.0.8/extension"]
+2025-05-02 13:46:05.320 [info] [Window] Placing extension(s) vscode.git-base, vscode.github-authentication, vscode.typescript-language-features, ms-vscode.anycode, ms-vscode.azure-repos, GitHub.remotehub, GitHub.vscode-pull-request-github, ms-vscode.remote-repositories, eamodio.gitlens on a separate extension host.
+2025-05-02 13:46:05.382 [info] [Window] [sourcegraph.cody-ai]: Command `cody.command.autoedit.open-debug-panel` already registered by Cody: AI Code Assistant (sourcegraph.cody-ai)
+2025-05-02 13:46:05.677 [info] [Views] Added views:pr:github,issues:github in workbench.panel.markers
+2025-05-02 13:46:05.678 [info] [Views] Added views:remoteTargets in workbench.view.remote
+2025-05-02 13:46:05.679 [info] [Views] Added views:remoteHub.views.workspaceRepositories in workbench.view.remote
+2025-05-02 13:46:05.679 [info] [Views] Added views:aws.amazonq.SecurityIssuesTree,aws.amazonq.AmazonQChatView in workbench.view.extension.amazonq
+2025-05-02 13:46:05.680 [info] [Views] Added views:aws.codeWhisperer.referenceLog in workbench.view.extension.aws-codewhisperer-reference-log
+2025-05-02 13:46:05.701 [info] [Views] Added views:aws.appBuilderForFileExplorer in workbench.view.explorer
+2025-05-02 13:46:05.703 [info] [Views] Added views:aws.amazonq.codewhisperer,aws.explorer,aws.cdk,aws.appBuilder,aws.codecatalyst in workbench.view.extension.aws-explorer
+2025-05-02 13:46:05.704 [info] [Views] Added views:codemate-sidebar in workbench.view.extension.codemate-sidebar-view
+2025-05-02 13:46:05.706 [info] [Views] Added views:gitlens.views.scm.grouped in workbench.view.scm
+2025-05-02 13:46:05.707 [info] [Views] Added views:gitlens.views.commitDetails,gitlens.views.lineHistory,gitlens.views.fileHistory,gitlens.views.searchAndCompare in workbench.view.extension.gitlensInspect
+2025-05-02 13:46:05.708 [info] [Views] Added views:gitlens.views.home,gitlens.views.launchpad,gitlens.views.workspaces in workbench.view.extension.gitlens
+2025-05-02 13:46:05.709 [info] [Views] Added views:opentofu.providers,opentofu.modules in workbench.view.extension.opentofu
+2025-05-02 13:46:05.710 [info] [Views] Added views:github-actions.empty-view in workbench.view.extension.github-actions
+2025-05-02 13:46:05.711 [info] [Views] Added views:terraform.providers,terraform.modules in workbench.view.extension.terraform
+2025-05-02 13:46:05.712 [info] [Views] Added views:terraform.cloud.workspaces,terraform.cloud.runs in workbench.view.extension.terraform-cloud
+2025-05-02 13:46:05.713 [info] [Views] Added views:jupyterKernelsView,jupyterContextualHelp in workbench.view.extension.jupyter
+2025-05-02 13:46:05.714 [info] [Views] Added views:liveshare.session in workbench.view.extension.liveshare
+2025-05-02 13:46:05.717 [info] [Views] Added views:databricksConnections,databricksClusters,databricksJobs,databricksSecrets,databricksSQL,databricksRepos in workbench.view.extension.databricksPowerTools
+2025-05-02 13:46:05.719 [info] [Views] Added views:onlineDevicesView in workbench.view.extension.vscode-brightscript-language
+2025-05-02 13:46:05.721 [info] [Views] Added views:sceneGraphInspectorView,rokuDeviceView,rokuFileSystemView,rokuAppOverlaysView,rokuRegistryView,rokuCommandsView,rokuAutomationView,rokuReplView in workbench.view.debug
+2025-05-02 13:46:05.722 [info] [Views] Added views:cody.chat in workbench.view.extension.cody
+2025-05-02 13:46:05.723 [info] [Views] Added views:sourcegraph.searchSidebar,sourcegraph.files,sourcegraph.authSidebar,sourcegraph.helpSidebar in workbench.view.extension.sourcegraph-view
+2025-05-02 13:46:05.724 [info] [Views] Added views:snippetsmanager-snippetsView-WorkspaceSnippetsExplorerView,snippetsmanager-snippetsView-UserSnippetsExplorerView,snippetsmanager-snippetsView-ExtensionSnippetsExplorerView,snippetsmanager-snippetsView-HelpAndFeedback in workbench.view.extension.snippetsmanager-snippetsView
+2025-05-02 13:46:06.982 [info] [Views] Added views:workbench.debug.variablesView,workbench.debug.watchExpressionsView,workbench.debug.callStackView,workbench.debug.breakPointsView in workbench.view.debug
+2025-05-02 13:46:07.382 [info] [Views] Added views:workbench.panel.repl.view in workbench.panel.repl
+2025-05-02 13:46:07.387 [info] [Views] Removed views:workbench.debug.breakPointsView,workbench.debug.callStackView,workbench.debug.watchExpressionsView,workbench.debug.variablesView from workbench.view.debug
+2025-05-02 13:46:07.391 [info] [Views] Added views:workbench.debug.welcome in workbench.view.debug
+2025-05-02 13:46:07.394 [info] [Extension Host (Worker)] Extension host started
+2025-05-02 13:46:07.449 [info] [Extension Host (Worker)] Extension host started
+2025-05-02 13:46:07.451 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension codespaces-contrib.codeswing, startup: false, activationEvent: 'onFileSystem:vscode-vfs'
+2025-05-02 13:46:07.590 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension ms-vscode.remote-repositories, startup: false, activationEvent: 'onFileSystem:vscode-vfs'
+2025-05-02 13:46:08.147 [info] [Window] Migrating workspace extension storage from wakatime.vscode-wakatime to WakaTime.vscode-wakatime...
+2025-05-02 13:46:08.148 [info] [Window] Migrated workspace extension storage from wakatime.vscode-wakatime to WakaTime.vscode-wakatime
+2025-05-02 13:46:08.162 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-05-02 13:46:08.258 [error] [Window] [vscode.microsoft-authentication]: This authentication id 'microsoft' has already been registered
+2025-05-02 13:46:08.262 [info] [vscode.dev] [getSessions] [all] starting
+2025-05-02 13:46:08.267 [info] [vscode.dev] [Fri, 02 May 2025 06:46:08 GMT] : [] : @azure/msal-common@14.15.0 : Info - CacheManager:getIdToken - Returning ID token
+2025-05-02 13:46:08.273 [info] [vscode.dev] [Fri, 02 May 2025 06:46:08 GMT] : [] : @azure/msal-common@14.15.0 : Info - CacheManager:getAccessToken - Returning access token
+2025-05-02 13:46:08.273 [info] [vscode.dev] [Fri, 02 May 2025 06:46:08 GMT] : [01968fbe-cc8a-76f4-b7c5-9185a0e3e7ce] : @azure/msal-common@14.15.0 : Info - Token refresh is required due to cache outcome: 3
+2025-05-02 13:46:08.275 [info] [vscode.dev] [Fri, 02 May 2025 06:46:08 GMT] : [] : @azure/msal-common@14.15.0 : Info - CacheManager:getRefreshToken - returning refresh token
+2025-05-02 13:46:08.276 [error] [vscode.dev] InteractionRequiredAuthError: refresh_token_expired: Refresh token has expired.
+2025-05-02 13:46:08.276 [info] [vscode.dev] [getSessions] [all] returned 0 sessions
+2025-05-02 13:46:08.633 [info] [Extension Host (Worker)] Eager extensions activated
+2025-05-02 13:46:08.669 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension ms-vscode.anycode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:08.673 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2025-05-02 13:46:08.677 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:08.718 [info] [Window] Updating additional builtin extensions cache
+2025-05-02 13:46:09.118 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-02 13:46:09.128 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-02 13:46:09.134 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-02 13:46:09.140 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension AyushSinghal.Code-Mate, startup: false, activationEvent: 'onLanguage'
+2025-05-02 13:46:09.144 [info] [Window] Migrating workspace extension storage from ayushsinghal.code-mate to AyushSinghal.Code-Mate...
+2025-05-02 13:46:09.145 [info] [Window] Migrated workspace extension storage from ayushsinghal.code-mate to AyushSinghal.Code-Mate
+2025-05-02 13:46:09.148 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension sourcegraph.cody-ai, startup: false, activationEvent: 'onLanguage'
+2025-05-02 13:46:09.161 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-02 13:46:09.960 [error] [Window] [AtikinVerse.atikin-elixir-snippets]: Unknown language in `contributes.atikin-elixir-snippets.language`. Provided value: Elixir
+2025-05-02 13:46:09.961 [error] [Window] [AtikinVerse.atikin-haskell-snippets]: Unknown language in `contributes.atikin-haskell-snippets.language`. Provided value: Haskell
+2025-05-02 13:46:09.961 [error] [Window] [AtikinVerse.atikin-rust-snippets]: Unknown language in `contributes.atikin-rust-snippets.language`. Provided value: Rust
+2025-05-02 13:46:09.964 [error] [Window] [hollowtree.vue-snippets]: Unknown language in `contributes.vue-snippets.language`. Provided value: vue-html
+2025-05-02 13:46:09.965 [error] [Window] [onecentlin.laravel5-snippets]: Unknown language in `contributes.laravel5-snippets.language`. Provided value: blade
+2025-05-02 13:46:09.966 [error] [Window] [sdras.vue-vscode-snippets]: Unknown language in `contributes.vue-vscode-snippets.language`. Provided value: vue-html
+2025-05-02 13:46:09.967 [error] [Window] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2025-05-02 13:46:09.967 [error] [Window] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: blade
+2025-05-02 13:46:09.968 [error] [Window] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: latte
+2025-05-02 13:46:09.969 [error] [Window] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: tpl
+2025-05-02 13:46:09.969 [error] [Window] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: vue-html
+2025-05-02 13:46:09.970 [error] [Window] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: jinja-html
+2025-05-02 13:46:09.970 [error] [Window] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: erb
+2025-05-02 13:46:09.971 [error] [Window] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: HTML (Eex)
+2025-05-02 13:46:09.971 [error] [Window] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: volt
+2025-05-02 13:46:09.972 [error] [Window] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: nunjucks
+2025-05-02 13:46:10.045 [info] [Cloud Changes] Resuming cloud changes, reason: cloud changes enabled...
+2025-05-02 13:46:10.045 [info] [Cloud Changes] Checking for pending cloud changes...
+2025-05-02 13:46:10.045 [info] [Cloud Changes] Searching for existing authentication session with ID 569419f8faa21740
+2025-05-02 13:46:10.047 [info] [vscode.dev] [getSessions] [email offline_access openid profile] starting
+2025-05-02 13:46:10.047 [info] [vscode.dev] [Fri, 02 May 2025 06:46:10 GMT] : [] : @azure/msal-common@14.15.0 : Info - CacheManager:getIdToken - Returning ID token
+2025-05-02 13:46:10.050 [info] [vscode.dev] [Fri, 02 May 2025 06:46:10 GMT] : [] : @azure/msal-common@14.15.0 : Info - CacheManager:getAccessToken - Returning access token
+2025-05-02 13:46:10.050 [info] [vscode.dev] [Fri, 02 May 2025 06:46:10 GMT] : [01968fbe-d37f-7d43-8156-05cc2142ff8e] : @azure/msal-common@14.15.0 : Info - Token refresh is required due to cache outcome: 3
+2025-05-02 13:46:10.052 [info] [vscode.dev] [Fri, 02 May 2025 06:46:10 GMT] : [] : @azure/msal-common@14.15.0 : Info - CacheManager:getRefreshToken - returning refresh token
+2025-05-02 13:46:10.053 [error] [vscode.dev] InteractionRequiredAuthError: refresh_token_expired: Refresh token has expired.
+2025-05-02 13:46:10.053 [info] [vscode.dev] [getSessions] [email offline_access openid profile] returned 0 sessions
+2025-05-02 13:46:11.008 [info] [vscode.dev] [getSessions] [all] starting
+2025-05-02 13:46:11.008 [info] [vscode.dev] [Fri, 02 May 2025 06:46:10 GMT] : [] : @azure/msal-common@14.15.0 : Info - CacheManager:getIdToken - Returning ID token
+2025-05-02 13:46:11.011 [info] [vscode.dev] [Fri, 02 May 2025 06:46:11 GMT] : [] : @azure/msal-common@14.15.0 : Info - CacheManager:getAccessToken - Returning access token
+2025-05-02 13:46:11.011 [info] [vscode.dev] [Fri, 02 May 2025 06:46:11 GMT] : [01968fbe-d733-701e-bf6a-630f9bde70e3] : @azure/msal-common@14.15.0 : Info - Token refresh is required due to cache outcome: 3
+2025-05-02 13:46:11.012 [info] [vscode.dev] [Fri, 02 May 2025 06:46:11 GMT] : [] : @azure/msal-common@14.15.0 : Info - CacheManager:getRefreshToken - returning refresh token
+2025-05-02 13:46:11.013 [error] [vscode.dev] InteractionRequiredAuthError: refresh_token_expired: Refresh token has expired.
+2025-05-02 13:46:11.013 [info] [vscode.dev] [getSessions] [all] returned 0 sessions
+2025-05-02 13:46:12.599 [info] [JSON Language Server] l10n: No bundle configured.
+2025-05-02 13:46:12.742 [error] [Extension Host (Worker)] Activating extension christian-kohler.path-intellisense failed due to an error:
+2025-05-02 13:46:12.743 [error] [Extension Host (Worker)] Error: 
+	at zF.xb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:160:1162)
+	at async Promise.all (index 0)
+	at async j1.n (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:13359)
+	at async j1.m (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:13322)
+	at async j1.l (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:12778)
+2025-05-02 13:46:12.784 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: johnpapa.vscode-peacock
+2025-05-02 13:46:12.816 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:12.824 [info] [Window] Migrating workspace extension storage from github.vscode-pull-request-github to GitHub.vscode-pull-request-github...
+2025-05-02 13:46:12.825 [info] [Window] Migrated workspace extension storage from github.vscode-pull-request-github to GitHub.vscode-pull-request-github
+2025-05-02 13:46:12.828 [info] [Window] Settings Sync: Token updated for the account tr4200812
+2025-05-02 13:46:12.829 [info] [Settings Sync] [AutoSync] Triggered by Interval
+2025-05-02 13:46:12.830 [info] [Settings Sync] Sync started.
+2025-05-02 13:46:12.833 [info] [Window] Settings Sync: Account status changed from uninitialized to available
+2025-05-02 13:46:12.836 [info] [Cloud Changes] Found existing authentication session with ID 569419f8faa21740
+2025-05-02 13:46:12.843 [info] [GitHub Authentication] Reading sessions from keychain...
+2025-05-02 13:46:12.843 [info] [GitHub Authentication] Got stored sessions!
+2025-05-02 13:46:12.843 [info] [GitHub Authentication] Got 6 verified sessions.
+2025-05-02 13:46:12.843 [info] [GitHub Authentication] Getting sessions for all scopes...
+2025-05-02 13:46:12.843 [info] [GitHub Authentication] Got 6 sessions for ...
+2025-05-02 13:46:12.843 [info] [GitHub Authentication] Getting sessions for all scopes...
+2025-05-02 13:46:12.843 [info] [GitHub Authentication] Got 6 sessions for ...
+2025-05-02 13:46:12.843 [info] [GitHub Authentication] Getting sessions for user:email...
+2025-05-02 13:46:12.843 [info] [GitHub Authentication] Got 1 sessions for user:email...
+2025-05-02 13:46:12.843 [info] [GitHub Authentication] Getting sessions for user:email...
+2025-05-02 13:46:12.843 [info] [GitHub Authentication] Got 1 sessions for user:email...
+2025-05-02 13:46:13.429 [info] [Settings Sync] Profiles: Last sync resource does not exist locally.
+2025-05-02 13:46:13.440 [warning] [Remote Repositories] Running on the web in a webworker; workspaceId=-75ecbd4f; storageUri=vscode-userdata:/User/globalStorage/ms-vscode.remote-repositories
+2025-05-02 13:46:13.510 [info] [Remote Repositories] [ GHPR] Registering...
+2025-05-02 13:46:13.511 [info] [Remote Repositories] [ VSCodeEdu ] Not currently installed or enabled; waiting...
+2025-05-02 13:46:13.538 [info] [Remote Repositories] [    2] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/settings.json)
+2025-05-02 13:46:13.540 [info] [Remote Repositories] [    3] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json)
+2025-05-02 13:46:13.541 [info] [Remote Repositories] [    4] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json)
+2025-05-02 13:46:13.544 [info] [Remote Repositories] [    5] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json)
+2025-05-02 13:46:13.545 [info] [Remote Repositories] [    6] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/settings.json)
+2025-05-02 13:46:13.546 [info] [Remote Repositories] [    7] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json)
+2025-05-02 13:46:13.547 [info] [Remote Repositories] [    8] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json)
+2025-05-02 13:46:13.548 [info] [Remote Repositories] [    9] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json)
+2025-05-02 13:46:13.562 [info] [Remote Repositories] [   10] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:46:13.569 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension GitHub.remotehub, startup: false, activationEvent: 'api', root cause: ms-vscode.remote-repositories
+2025-05-02 13:46:13.579 [info] [Window] Migrating workspace extension storage from github.remotehub to GitHub.remotehub...
+2025-05-02 13:46:13.580 [info] [Window] Migrated workspace extension storage from github.remotehub to GitHub.remotehub
+2025-05-02 13:46:14.008 [info] [Views] Removed views:gitlens.views.searchAndCompare,gitlens.views.fileHistory,gitlens.views.lineHistory,gitlens.views.commitDetails from workbench.view.extension.gitlensInspect
+2025-05-02 13:46:14.014 [info] [Views] Removed views:gitlens.views.scm.grouped from workbench.view.scm
+2025-05-02 13:46:14.803 [info] [GitLens] GitLens (pre-release) v2025.4.3005 activating in Visual Studio Code (1.99.3) on the web; language='en', logLevel='warn', defaultDateLocale='null' (32d8d599-c13d-4ec7-8750-be8a893774eb|e73b8b54-c382-430a-b1f9-d76772d21ede1746168364015)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-05-02 13:46:14.816 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email...
+2025-05-02 13:46:14.817 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email...
+2025-05-02 13:46:14.850 [info] [Window] Auto updating outdated extensions. amazonwebservices.amazon-q-vscode, amazonwebservices.aws-toolkit-vscode, beardedbear.beardedtheme, bierner.markdown-mermaid, chris-noring.node-snippets, devsense.phptools-vscode, docsmsft.docs-authoring-pack, eamodio.gitlens, emmanuelbeziat.vscode-great-icons, fisheva.eva-theme, jdinhlife.gruvbox, k--kato.intellij-idea-keybindings, mechatroner.rainbow-csv, ms-python.python, ms-python.vscode-pylance, ms-vscode.vscode-typescript-next, myriad-dreamin.tinymist, nicoespeon.abracadabra, onecentlin.laravel5-snippets, pkief.material-icon-theme, redhat.vscode-yaml, renesaarsoo.sql-formatter-vsc, rocketsoftware.rocket-cobol, rokucommunity.brightscript, sourcegraph.cody-ai, tinkertrain.theme-panda, usernamehw.errorlens, vscode-icons-team.vscode-icons, vue.volar
+2025-05-02 13:46:15.131 [info] [Extension Host (Worker)] Not activating extension 'vscode.npm': Timed out while searching for 'workspaceContains' pattern package.json
+2025-05-02 13:46:15.133 [info] [Extension Host (Worker)] Not activating extension 'codespaces-contrib.codeswing': Timed out while searching for 'workspaceContains' pattern codeswing.json
+2025-05-02 13:46:15.135 [info] [Extension Host (Worker)] Not activating extension 'DEVSENSE.phptools-vscode': Timed out while searching for 'workspaceContains' pattern **/*.php
+2025-05-02 13:46:15.137 [info] [Extension Host (Worker)] Not activating extension 'fantasy.markdown-all-in-one-for-web': Timed out while searching for 'workspaceContains' pattern README.md
+2025-05-02 13:46:15.139 [info] [Extension Host (Worker)] Not activating extension 'gamunu.opentofu': Timed out while searching for 'workspaceContains' pattern **/*.tf,**/*.tfvars
+2025-05-02 13:46:15.140 [info] [Extension Host (Worker)] Not activating extension 'github.vscode-github-actions': Timed out while searching for 'workspaceContains' pattern **/.github/workflows/**
+2025-05-02 13:46:15.149 [info] [Extension Host (Worker)] Not activating extension 'hashicorp.hcl': Timed out while searching for 'workspaceContains' pattern **/*.hcl
+2025-05-02 13:46:15.150 [info] [Extension Host (Worker)] Not activating extension 'hashicorp.terraform': Timed out while searching for 'workspaceContains' pattern **/*.tf,**/*.tfvars
+2025-05-02 13:46:15.152 [info] [Extension Host (Worker)] Not activating extension 'ms-python.python': Timed out while searching for 'workspaceContains' pattern mspythonconfig.json,pyproject.toml,Pipfile,setup.py,requirements.txt,manage.py,app.py,.venv,.conda
+2025-05-02 13:46:15.154 [info] [Extension Host (Worker)] Not activating extension 'ms-python.vscode-pylance': Timed out while searching for 'workspaceContains' pattern pyrightconfig.json
+2025-05-02 13:46:15.161 [info] [Extension Host (Worker)] Not activating extension 'RandomFractalsInc.vscode-data-table': Timed out while searching for 'workspaceContains' pattern **/*.ipynb,**/*.xbook,**/*.restbook
+2025-05-02 13:46:15.162 [info] [Extension Host (Worker)] Not activating extension 'RocketSoftware.rocket-cobol': Timed out while searching for 'workspaceContains' pattern **/*.{[Cc][Bb][Ll],[Cc][Pp][Yy],[Cc][Oo][Bb][Oo][Ll],[Cc][Oo][Bb],[Ee][Cc][Oo],[Pp][Cc][Oo],[Cc][Cc][Pp],[Ss][Qq][Bb],[Cc][Pp][Vv],[Cc][Pp][Ff],[Cc][Bb][Ll][Pp][Rr][Oo][Jj],[Cc][Oo][Bb][Ll][Pp][Rr][Oo][Jj],[Cc][Oo][Bb][Oo][Ll][Bb][Uu][Ui][Ll][Dd]}
+2025-05-02 13:46:15.163 [info] [Extension Host (Worker)] Not activating extension 'RokuCommunity.brightscript': Timed out while searching for 'workspaceContains' pattern **/manifest,**/bsconfig.json
+2025-05-02 13:46:15.857 [info] [Window] Auto update disabled for extension amazonwebservices.amazon-q-vscode
+2025-05-02 13:46:15.858 [info] [Window] Auto update disabled for extension amazonwebservices.aws-toolkit-vscode
+2025-05-02 13:46:15.858 [info] [Window] Auto update disabled for extension beardedbear.beardedtheme
+2025-05-02 13:46:15.858 [info] [Window] Auto update disabled for extension bierner.markdown-mermaid
+2025-05-02 13:46:15.859 [info] [Window] Auto update disabled for extension chris-noring.node-snippets
+2025-05-02 13:46:15.859 [info] [Window] Auto update disabled for extension devsense.phptools-vscode
+2025-05-02 13:46:15.859 [info] [Window] Auto update disabled for extension docsmsft.docs-authoring-pack
+2025-05-02 13:46:15.859 [info] [Window] Auto update disabled for extension eamodio.gitlens
+2025-05-02 13:46:15.860 [info] [Window] Auto update disabled for extension emmanuelbeziat.vscode-great-icons
+2025-05-02 13:46:15.860 [info] [Window] Auto update disabled for extension fisheva.eva-theme
+2025-05-02 13:46:15.860 [info] [Window] Auto update disabled for extension jdinhlife.gruvbox
+2025-05-02 13:46:15.860 [info] [Window] Auto update disabled for extension k--kato.intellij-idea-keybindings
+2025-05-02 13:46:15.860 [info] [Window] Auto update disabled for extension mechatroner.rainbow-csv
+2025-05-02 13:46:15.860 [info] [Window] Auto update disabled for extension ms-python.python
+2025-05-02 13:46:15.861 [info] [Window] Auto update disabled for extension ms-python.vscode-pylance
+2025-05-02 13:46:15.861 [info] [Window] Auto update disabled for extension ms-vscode.vscode-typescript-next
+2025-05-02 13:46:15.861 [info] [Window] Auto update disabled for extension myriad-dreamin.tinymist
+2025-05-02 13:46:15.861 [info] [Window] Auto update disabled for extension nicoespeon.abracadabra
+2025-05-02 13:46:15.861 [info] [Window] Auto update disabled for extension onecentlin.laravel5-snippets
+2025-05-02 13:46:15.861 [info] [Window] Auto update disabled for extension pkief.material-icon-theme
+2025-05-02 13:46:15.861 [info] [Window] Auto update disabled for extension redhat.vscode-yaml
+2025-05-02 13:46:15.862 [info] [Window] Auto update disabled for extension renesaarsoo.sql-formatter-vsc
+2025-05-02 13:46:15.862 [info] [Window] Auto update disabled for extension rocketsoftware.rocket-cobol
+2025-05-02 13:46:15.862 [info] [Window] Auto update disabled for extension rokucommunity.brightscript
+2025-05-02 13:46:15.862 [info] [Window] Auto update disabled for extension sourcegraph.cody-ai
+2025-05-02 13:46:15.862 [info] [Window] Auto update disabled for extension tinkertrain.theme-panda
+2025-05-02 13:46:15.862 [info] [Window] Auto update disabled for extension usernamehw.errorlens
+2025-05-02 13:46:15.863 [info] [Window] Auto update disabled for extension vscode-icons-team.vscode-icons
+2025-05-02 13:46:15.863 [info] [Window] Auto update disabled for extension vue.volar
+2025-05-02 13:46:17.319 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2025-05-02 13:46:17.325 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2025-05-02 13:46:18.125 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.138 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.148 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension amazonwebservices.amazon-q-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.156 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension amazonwebservices.aws-toolkit-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.162 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension AndrewButson.vscode-openapi-viewer, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.165 [info] [Window] Migrating workspace extension storage from andrewbutson.vscode-openapi-viewer to AndrewButson.vscode-openapi-viewer...
+2025-05-02 13:46:18.166 [info] [Window] Migrated workspace extension storage from andrewbutson.vscode-openapi-viewer to AndrewButson.vscode-openapi-viewer
+2025-05-02 13:46:18.169 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension bierner.color-info, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.174 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.185 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.202 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.209 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.215 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.222 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.230 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.238 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.248 [info] [Window] Migrating workspace extension storage from pkief.material-icon-theme to PKief.material-icon-theme...
+2025-05-02 13:46:18.250 [info] [Window] Migrated workspace extension storage from pkief.material-icon-theme to PKief.material-icon-theme
+2025-05-02 13:46:18.255 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension ReneSaarsoo.sql-formatter-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.260 [info] [Window] Migrating workspace extension storage from renesaarsoo.sql-formatter-vsc to ReneSaarsoo.sql-formatter-vsc...
+2025-05-02 13:46:18.262 [info] [Window] Migrated workspace extension storage from renesaarsoo.sql-formatter-vsc to ReneSaarsoo.sql-formatter-vsc
+2025-05-02 13:46:18.266 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension sourcegraph.sourcegraph, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.272 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.278 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension usernamehw.remove-empty-lines, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.292 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vsce-toolroom.vscode-beautify, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.298 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.304 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.311 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.316 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension zjffun.gotofolder, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.323 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension zjffun.snippetsmanager, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 13:46:18.479 [info] [GitLens] [2025-05-02 06:46:17.995] [            3] ProductConfigProvider.load 
+TypeError: Failed to fetch
+[2025-05-02 06:46:18.000] [            3] ProductConfigProvider.load 
+TypeError: Failed to fetch
+
+2025-05-02 13:46:21.074 [info] [Cloud Changes] Request failed {"url":"https://vscode-sync.trafficmanager.net/v1/resource/editSessions/latest","status":404,"execution-id":"095197d8-6b3e-43f3-bc5f-dfbe7c958d1b"} Not Found
+2025-05-02 13:46:21.075 [error] [Cloud Changes] NotFound (UserDataSyncError) syncResource:unknown operationId:unknown: GET request 'https://vscode-sync.trafficmanager.net/v1/resource/editSessions/latest' failed because the requested resource is not found (404).
+    at cjs.D (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:16362)
+    at async cjs.readResource (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:12372)
+    at async Rdt.read (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3231:103242)
+    at async Wdt.resumeEditSession (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3231:125632)
+    at async https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3231:120694
+    at async r (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1786:12204)
+2025-05-02 13:46:21.075 [info] [Cloud Changes] Aborting resuming edit session as no edit session content is available to be applied
+2025-05-02 13:46:22.315 [info] [Views] Added views:gitlens.views.drafts in workbench.view.extension.gitlens
+2025-05-02 13:46:24.139 [error] [Extension Host (Worker)] Activating extension dsznajder.es7-react-js-snippets failed due to an error:
+2025-05-02 13:46:24.140 [error] [Extension Host (Worker)] Error: Cannot load module './helpers/generateSnippets'
+	at f (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:161:483)
+	at eval (https://dsznajder.vscode-unpkg.net/dsznajder/es7-react-js-snippets/4.4.3/extension/lib/index.js#vscode-extension:10:44)
+	at zF.xb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:161:627)
+	at async Promise.all (index 0)
+	at async j1.n (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:13359)
+	at async j1.m (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:13322)
+	at async j1.l (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:12778)
+2025-05-02 13:46:27.215 [info] [Views] Removed views:aws.appBuilder,aws.explorer from workbench.view.extension.aws-explorer
+2025-05-02 13:46:27.218 [info] [Views] Removed views:aws.amazonq.AmazonQChatView,aws.amazonq.SecurityIssuesTree from workbench.view.extension.amazonq
+2025-05-02 13:46:27.233 [info] [Views] Removed views:aws.appBuilderForFileExplorer from workbench.view.explorer
+2025-05-02 13:46:28.811 [info] [AWS Toolkit Logs] Log level: info, beta=false
+2025-05-02 13:46:28.823 [info] [AWS Toolkit Logs] endpoints: retrieving AWS endpoints data
+2025-05-02 13:46:28.825 [info] [AWS Toolkit Logs] Telemetry product: AWS Toolkit For VS Code
+2025-05-02 13:46:28.827 [info] [Amazon Q Logs] Log level: info, beta=false
+2025-05-02 13:46:28.829 [info] [Amazon Q Logs] Telemetry product: Amazon Q For VS Code
+2025-05-02 13:46:28.878 [error] [AWS Toolkit Logs] %O { [Error (FileSystemError): Unable to read file '/User/globalStorage/amazonwebservices.amazon-q-vscode/telemetryCache' (Unavailable (FileSystemError): Error: No file system handle registered (/User))] code: 'Unknown', name: 'Error (FileSystemError)' }
+2025-05-02 13:46:29.027 [info] [Settings Sync] Settings: Last sync resource does not exist locally.
+2025-05-02 13:46:29.032 [error] [Window] [Extension Host] 2025-05-02 13:46:28 [ERROR]: %O { [Error (FileSystemError): Unable to read file '/User/globalStorage/amazonwebservices.amazon-q-vscode/telemetryCache' (Unavailable (FileSystemError): Error: No file system handle registered (/User))] code: 'Unknown', name: 'Error (FileSystemError)' }
+2025-05-02 13:46:29.034 [info] [AWS Toolkit Logs] Telemetry clientId: 32d8d599-c13d-4ec7-8750-be8a893774eb
+2025-05-02 13:46:29.036 [info] [AWS Toolkit Logs] Telemetry sessionId: 5edb8300-f5f5-59fe-bc33-89e48738b352
+2025-05-02 13:46:29.038 [error] [AWS Toolkit Logs] UninstallExtension: Failed to register un-installation: TypeError: (0 , t.existsSync) is not a function
+2025-05-02 13:46:29.039 [error] [Window] [Extension Host] 2025-05-02 13:46:28 [ERROR]: UninstallExtension: Failed to register un-installation: TypeError: (0 , t.existsSync) is not a function
+2025-05-02 13:46:29.092 [error] [Amazon Q Logs] %O { [Error (FileSystemError): Unable to read file '/User/globalStorage/amazonwebservices.amazon-q-vscode/telemetryCache' (Unavailable (FileSystemError): Error: No file system handle registered (/User))] code: 'Unknown', name: 'Error (FileSystemError)' }
+2025-05-02 13:46:29.093 [error] [Window] [Extension Host] 2025-05-02 13:46:28 [ERROR]: %O { [Error (FileSystemError): Unable to read file '/User/globalStorage/amazonwebservices.amazon-q-vscode/telemetryCache' (Unavailable (FileSystemError): Error: No file system handle registered (/User))] code: 'Unknown', name: 'Error (FileSystemError)' }
+2025-05-02 13:46:29.094 [info] [Amazon Q Logs] Telemetry clientId: 32d8d599-c13d-4ec7-8750-be8a893774eb
+2025-05-02 13:46:29.096 [info] [Amazon Q Logs] Telemetry sessionId: 5edb8300-f5f5-59fe-bc33-89e48738b352
+2025-05-02 13:46:29.097 [info] [Amazon Q Logs] codewhisperer: active connection changed
+2025-05-02 13:46:29.098 [info] [Amazon Q Logs] codewhisperer: connection states
+    connection isValid=false,
+    connection isValidCodewhispererCoreConnection=false,
+    connection isExpired=false,
+    secondaryAuth isExpired=false,
+    connection isUndefined=true
+2025-05-02 13:46:29.100 [info] [Amazon Q Logs] Trying to register toolkit callback. Toolkit is installed,
+                        toolkit activated = false
+2025-05-02 13:46:29.102 [error] [Amazon Q Logs] CodeWhisperer: Error when fetching feature configs Error: No connection found
+2025-05-02 13:46:29.103 [error] [Window] [Extension Host] 2025-05-02 13:46:29 [ERROR]: CodeWhisperer: Error when fetching feature configs Error: No connection found
+2025-05-02 13:46:29.104 [error] [Amazon Q Logs] CodeWhisperer: Error when fetching feature configs Error: No connection found
+2025-05-02 13:46:29.105 [error] [Window] [Extension Host] 2025-05-02 13:46:29 [ERROR]: CodeWhisperer: Error when fetching feature configs Error: No connection found
+2025-05-02 13:46:29.138 [info] [Views] Removed views:aws.amazonq.codewhisperer from workbench.view.extension.aws-explorer
+2025-05-02 13:46:29.141 [error] [Amazon Q Logs] UninstallExtension: Failed to register un-installation: TypeError: (0 , t.existsSync) is not a function
+2025-05-02 13:46:29.142 [error] [Window] [Extension Host] 2025-05-02 13:46:29 [ERROR]: UninstallExtension: Failed to register un-installation: TypeError: (0 , t.existsSync) is not a function
+2025-05-02 13:46:29.582 [info] [GitLens] [2025-05-02 06:46:29.079] ProvidersApi.handleProviderError
+Error: Your 'gitlab' credentials are either invalid or expired
+
+2025-05-02 13:46:34.156 [warning] [Amazon Q Logs] AwsContext: no default region in credentials profile, falling back to us-east-1:
+2025-05-02 13:46:35.758 [error] [Extension Host (Worker)] Activating extension AyushSinghal.Code-Mate failed due to an error:
+2025-05-02 13:46:35.759 [error] [Extension Host (Worker)] Error: Cannot load module 'util'
+	at f (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:161:483)
+	at 73837 (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:2489442)
+	at o (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:3600778)
+	at 9779 (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:8713)
+	at o (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:3600778)
+	at 46882 (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:320766)
+	at o (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:3600778)
+	at 43306 (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:2594982)
+	at o (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:3600778)
+	at 61441 (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:2236189)
+	at o (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:3600778)
+	at 50112 (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:2274352)
+	at o (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:3600778)
+	at eval (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:3601723)
+	at eval (https://ayushsinghal.vscode-unpkg.net/AyushSinghal/Code-Mate/2.9.14/extension/dist/extension.js#vscode-extension:4:3601750)
+	at zF.xb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:161:627)
+	at async Promise.all (index 0)
+	at async j1.n (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:13359)
+	at async j1.m (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:13322)
+	at async j1.l (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:12778)
+2025-05-02 13:46:37.290 [warning] [AWS Toolkit Logs] AwsContext: no default region in credentials profile, falling back to us-east-1:
+2025-05-02 13:46:39.180 [error] [AWS Toolkit Logs] aws.toolkit.auth.addConnection: Error: ToolkitGlobals.awsContextCommands accessed, but this property is not set.
+2025-05-02 13:46:39.181 [error] [Window] [Extension Host] 2025-05-02 13:46:39 [ERROR]: aws.toolkit.auth.addConnection: Error: ToolkitGlobals.awsContextCommands accessed, but this property is not set.
+2025-05-02 13:46:46.018 [error] [Window] Cannot install the 'Dev Containers' extension because it is not available in this setup.: Unsupported: Cannot install the 'Dev Containers' extension because it is not available in this setup.
+    at ept.ab (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3290:10497)
+    at ept.installFromGallery (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3290:6920)
+    at async https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:2559:37473
+2025-05-02 13:46:50.142 [info] [Remote Repositories] [    2] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/settings.json): Not found • ChangeStore query took 46 ms • Querying provider...
+2025-05-02 13:46:50.143 [info] [Remote Repositories] [    3] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json): Not found • ChangeStore query took 50 ms • Querying provider...
+2025-05-02 13:46:50.144 [info] [Remote Repositories] [    4] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json): Not found • ChangeStore query took 51 ms • Querying provider...
+2025-05-02 13:46:50.145 [info] [Remote Repositories] [    5] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json): Not found • ChangeStore query took 52 ms • Querying provider...
+2025-05-02 13:46:50.150 [info] [Remote Repositories] [    7] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json): Not found • ChangeStore query took 54 ms • Querying provider...
+2025-05-02 13:46:50.151 [info] [Remote Repositories] [    8] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json): Not found • ChangeStore query took 57 ms • Querying provider...
+2025-05-02 13:46:50.151 [info] [Remote Repositories] [    9] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json): Not found • ChangeStore query took 59 ms • Querying provider...
+2025-05-02 13:46:50.153 [info] [Remote Repositories] [   10] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration): Not found • ChangeStore query took 59 ms • Querying provider...
+2025-05-02 13:46:50.153 [info] [GitHub Pull Request] [Activation] Extension version: 0.108.0
+2025-05-02 13:46:50.153 [info] [GitHub Pull Request] [TemporaryState] Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/User/globalStorage/github.vscode-pull-request-github/temp'
+2025-05-02 13:46:50.155 [info] [GitHub Authentication] Getting sessions for project,read:org,read:user,repo,user:email,workflow...
+2025-05-02 13:46:50.155 [info] [GitHub Authentication] Got 0 sessions for project,read:org,read:user,repo,user:email,workflow...
+2025-05-02 13:46:50.162 [info] [Remote Repositories] [   13] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.gitignore)
+2025-05-02 13:46:50.170 [warning] [GitHub Repositories] Running on the web in a webworker; workspaceId=-75ecbd4f; storageUri=vscode-userdata:/User/globalStorage/github.remotehub
+2025-05-02 13:46:50.170 [info] [GitHub Repositories] [    2] ChangeStore.getWorkspacesWithChanges()
+2025-05-02 13:46:50.170 [info] [GitHub Repositories] [    6] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/settings.json)
+2025-05-02 13:46:50.170 [info] [GitHub Repositories] [    8] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json)
+2025-05-02 13:46:50.170 [info] [GitHub Repositories] [   10] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json)
+2025-05-02 13:46:50.170 [info] [GitHub Repositories] [   12] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json)
+2025-05-02 13:46:50.170 [info] [GitHub Repositories] [    6] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/settings.json): Not found; no operations
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [    8] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json): Not found; no operations
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [    6] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/settings.json) took 45 ms
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [   10] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json): Not found; no operations
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [    8] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json) took 49 ms
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [   12] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json): Not found; no operations
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [    2] ChangeStore.getWorkspacesWithChanges() took 110 ms
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [   10] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json) took 50 ms
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [   12] ChangeStore.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json) took 51 ms
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [   25] GitHub.createMetadata(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, undefined)
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] Parsed metadata for vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration: name tr4200812/main-repository-inspiration, owner tr4200812, name main-repository-inspiration, ref master
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [   26] GitHub.ensureAuthenticated
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [   27] GitHub.sync(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, resolution=0, to=undefined)
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [   28] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=true, to=undefined)
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [   29] GitHub.sync(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, resolution=0, to=undefined)
+2025-05-02 13:46:50.171 [info] [GitHub Repositories] [   30] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=true, to=undefined)
+2025-05-02 13:46:50.179 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2025-05-02 13:46:50.180 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2025-05-02 13:46:50.188 [info] [GitHub Repositories] [   26] GitHub.ensureAuthenticated took 47 ms
+2025-05-02 13:46:50.196 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2025-05-02 13:46:50.196 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2025-05-02 13:46:50.407 [info] [GitHub Pull Request] [Activation] Looking for git repository
+2025-05-02 13:46:50.408 [info] [GitHub Pull Request] [Activation] Found 0 repositories during activation
+2025-05-02 13:46:50.409 [info] [GitHub Pull Request] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-05-02 13:46:50.902 [info] [GitHub Pull Request] [GitAPI] Registering git provider
+2025-05-02 13:46:50.903 [info] [Remote Repositories] [ GHPR] Registration complete
+2025-05-02 13:46:50.904 [info] [Remote Repositories] [ GHPR] Checking for opened PRs...
+2025-05-02 13:46:51.552 [error] [Settings Sync] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at SEe.Tb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:58060)
+    at SEe.ob (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:53939)
+    at async SEe.db (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:26501)
+2025-05-02 13:46:51.552 [error] [Settings Sync] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-05-02 13:46:51.575 [info] [Settings Sync] Keybindings: Last sync resource does not exist locally.
+2025-05-02 13:46:53.258 [error] [Extension Host (Worker)] Activating extension PKief.material-icon-theme failed due to an error:
+2025-05-02 13:46:53.259 [error] [Extension Host (Worker)] Error: 
+	at zF.xb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:160:1162)
+	at async Promise.all (index 0)
+	at async j1.n (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:13359)
+	at async j1.m (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:13322)
+	at async j1.l (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:12778)
+2025-05-02 13:46:57.829 [info] [Remote Repositories] [   14] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/extensions)
+2025-05-02 13:46:57.837 [info] [Remote Repositories] [   15] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode)
+2025-05-02 13:46:57.845 [info] [Remote Repositories] [   16] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.cursor/mcp.json)
+2025-05-02 13:46:57.851 [info] [Remote Repositories] [   17] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.git/config)
+2025-05-02 13:46:57.855 [info] [Remote Repositories] [   18] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/extensions.json)
+2025-05-02 13:46:57.860 [info] [Remote Repositories] [   19] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.cursor/mcp.json)
+2025-05-02 13:46:57.864 [info] [Remote Repositories] [   20] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.git/config)
+2025-05-02 13:46:57.870 [info] [Remote Repositories] [   21] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/extensions.json)
+2025-05-02 13:47:01.324 [info] [GitHub Repositories] [   25] GitHub.createMetadata(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, undefined) • Prefetching tree for 5a88619980b10dded106651f76e9b9f1d59ddcd6...
+2025-05-02 13:47:01.324 [info] [GitHub Repositories] [   32] GitHub.createFileTree(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration:5a88619980b10dded106651f76e9b9f1d59ddcd6)
+2025-05-02 13:47:01.325 [info] [GitHub Repositories] [   33] FileTree.load(5a88619980b10dded106651f76e9b9f1d59ddcd6:undefined)
+2025-05-02 13:47:01.330 [info] [GitHub Repositories] [   34] FileTree.load(5a88619980b10dded106651f76e9b9f1d59ddcd6:)
+2025-05-02 13:47:01.338 [info] [GitHub Repositories] [   35] FileTree.load(5a88619980b10dded106651f76e9b9f1d59ddcd6:.vscode)
+2025-05-02 13:47:01.344 [info] [GitHub Repositories] [   32] GitHub.createFileTree(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration:5a88619980b10dded106651f76e9b9f1d59ddcd6) took 4 ms
+2025-05-02 13:47:01.345 [warning] [GitHub Repositories] [   25] GitHub.createMetadata(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, undefined) took 11185 ms • HEAD=5a88619980b10dded106651f76e9b9f1d59ddcd6
+2025-05-02 13:47:01.425 [info] [GitHub Repositories] [   38] TarPit.getTar(github/tr4200812/main-repository-inspiration/5a88619980b10dded106651f76e9b9f1d59ddcd6)
+2025-05-02 13:47:01.435 [info] [GitHub Repositories] [   38] TarPit.getTar(github/tr4200812/main-repository-inspiration/5a88619980b10dded106651f76e9b9f1d59ddcd6) • Getting .tar from memory...
+2025-05-02 13:47:01.436 [info] [GitHub Repositories] [   38] TarPit.getTar(github/tr4200812/main-repository-inspiration/5a88619980b10dded106651f76e9b9f1d59ddcd6): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2025-05-02 13:47:01.437 [warning] [Remote Repositories] [   10] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 47872 ms (Provider query took 11297 ms)
+2025-05-02 13:47:01.441 [info] [Remote Repositories] [   22] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.443 [info] [Remote Repositories] [ GHPR] No opened PRs found
+2025-05-02 13:47:01.449 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-05-02 13:47:01.479 [info] [Views] Added views:workbench.scm.repositories in workbench.view.scm
+2025-05-02 13:47:01.493 [info] [Remote Repositories] [   22] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 32 ms (Provider query took 31 ms)
+2025-05-02 13:47:01.495 [info] [Remote Repositories] [   23] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.496 [info] [Remote Repositories] [   23] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 6 ms (Provider query took 5 ms)
+2025-05-02 13:47:01.497 [info] [Remote Repositories] [   24] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.498 [info] [Remote Repositories] [   24] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 3 ms (Provider query took 2 ms)
+2025-05-02 13:47:01.500 [info] [Settings Sync] Snippets: Last sync resource does not exist locally.
+2025-05-02 13:47:01.527 [info] [Remote Repositories] [   25] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.528 [info] [Remote Repositories] [   25] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 14 ms (Provider query took 0 ms)
+2025-05-02 13:47:01.530 [info] [Remote Repositories] [   26] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.531 [info] [Remote Repositories] [   26] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:01.533 [info] [Remote Repositories] [   27] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.534 [info] [Remote Repositories] [   27] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 1 ms (Provider query took 1 ms)
+2025-05-02 13:47:01.537 [info] [Remote Repositories] [   28] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.559 [info] [Remote Repositories] [   28] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:01.561 [info] [Remote Repositories] [   29] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.562 [info] [Remote Repositories] [   29] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:01.563 [info] [Remote Repositories] [   30] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.564 [info] [Remote Repositories] [   30] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:01.565 [info] [Remote Repositories] [   31] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.566 [info] [Remote Repositories] [   31] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 2 ms (Provider query took 0 ms)
+2025-05-02 13:47:01.567 [info] [Remote Repositories] [   32] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.568 [info] [Remote Repositories] [   32] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:01.570 [info] [Remote Repositories] [   33] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.571 [info] [Remote Repositories] [   33] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:01.572 [info] [Remote Repositories] [   34] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.573 [info] [Remote Repositories] [   34] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:01.574 [info] [Remote Repositories] [   35] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.575 [info] [Remote Repositories] [   35] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 2 ms (Provider query took 2 ms)
+2025-05-02 13:47:01.576 [info] [Remote Repositories] [   36] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.577 [info] [Remote Repositories] [   36] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 4 ms (Provider query took 1 ms)
+2025-05-02 13:47:01.595 [info] [GitHub Repositories] [   34] FileTree.load(5a88619980b10dded106651f76e9b9f1d59ddcd6:): Tree=5a88619980b10dded106651f76e9b9f1d59ddcd6; Tree query took 239 ms • Waiting for permissions...
+2025-05-02 13:47:01.596 [info] [GitHub Repositories] [   34] FileTree.load(5a88619980b10dded106651f76e9b9f1d59ddcd6:) Permissions query took 0 ms • Filling trie...
+2025-05-02 13:47:01.597 [info] [GitHub Repositories] [   34] FileTree.load(5a88619980b10dded106651f76e9b9f1d59ddcd6:) took 240 ms (Filling trie took 1 ms) • Tree=5a88619980b10dded106651f76e9b9f1d59ddcd6
+2025-05-02 13:47:01.598 [warning] [Remote Repositories] [   13] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.gitignore) took 11406 ms (Provider query took 11405 ms)
+2025-05-02 13:47:01.599 [warning] [Remote Repositories] [   15] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode) took 3728 ms (Provider query took 3725 ms)
+2025-05-02 13:47:01.604 [info] [GitHub Repositories] [   75] GitHub.getFileList(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.605 [info] [Settings Sync] GlobalState: Last sync resource does not exist locally.
+2025-05-02 13:47:01.608 [info] [GitHub Repositories] [   77] GitHub.getFileList(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.610 [info] [Remote Repositories] [   39] fs.readDirectory(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:01.611 [warning] [GitHub Repositories] [    1] Time to root directory took 11597 ms
+2025-05-02 13:47:01.612 [info] [Remote Repositories] [   39] fs.readDirectory(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 3 ms (Provider query took 3 ms)
+2025-05-02 13:47:01.818 [info] [GitHub Repositories] [   38] TarPit.getTar(github/tr4200812/main-repository-inspiration/5a88619980b10dded106651f76e9b9f1d59ddcd6): Not found • Getting .tar from disk took 336 ms • Getting .tar from network...
+2025-05-02 13:47:01.830 [info] [Remote Repositories] [   40] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/weblocks-jquery.js)
+2025-05-02 13:47:01.838 [info] [Remote Repositories] [   40] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/weblocks-jquery.js) took 5 ms (Provider query took 4 ms)
+2025-05-02 13:47:01.839 [info] [Remote Repositories] [   41] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/README.txt)
+2025-05-02 13:47:01.858 [info] [Remote Repositories] [   41] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/README.txt) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:01.867 [info] [Remote Repositories] [   42] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/Master)
+2025-05-02 13:47:01.868 [info] [Remote Repositories] [   42] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/Master) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:01.870 [info] [Remote Repositories] [   43] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/dialog-jquery.js)
+2025-05-02 13:47:01.871 [info] [Remote Repositories] [   43] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/dialog-jquery.js) took 12 ms (Provider query took 7 ms)
+2025-05-02 13:47:01.872 [info] [Remote Repositories] [   44] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.github)
+2025-05-02 13:47:01.873 [info] [Remote Repositories] [   44] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.github) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:01.895 [info] [GitHub Repositories] [   96] GitHub.ensureAuthenticated
+2025-05-02 13:47:01.897 [info] [GitHub Repositories] [   96] GitHub.ensureAuthenticated took 0 ms
+2025-05-02 13:47:02.019 [warning] [GitHub Repositories] [   28] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=true, to=undefined) took 11872 ms • Up to date
+2025-05-02 13:47:02.021 [warning] [GitHub Repositories] [   27] GitHub.sync(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, resolution=0, to=undefined) took 11875 ms • to=5a88619980b10dded106651f76e9b9f1d59ddcd6
+2025-05-02 13:47:02.037 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-05-02 13:47:02.043 [info] [Settings Sync] Tasks: Last sync resource does not exist locally.
+2025-05-02 13:47:02.086 [info] [GitHub Pull Request] [GitAPI] Repository vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration has been opened
+2025-05-02 13:47:02.088 [info] [GitHub Pull Request] [Review+0] Validate state in progress
+2025-05-02 13:47:02.089 [info] [GitHub Pull Request] [Review+0] Validating state...
+2025-05-02 13:47:02.100 [info] [GitHub Pull Request] [FolderRepositoryManager+0] Found GitHub remote for folder /tr4200812/main-repository-inspiration
+2025-05-02 13:47:02.207 [warning] [GitHub Repositories] [   30] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=true, to=undefined) took 11978 ms • Up to date
+2025-05-02 13:47:02.216 [warning] [GitHub Repositories] [   29] GitHub.sync(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, resolution=0, to=undefined) took 11978 ms • to=5a88619980b10dded106651f76e9b9f1d59ddcd6
+2025-05-02 13:47:02.399 [error] [GitHub Repositories] eval
+HttpError: Not Found
+2025-05-02 13:47:02.399 [warning] [GitHub Repositories] [   35] FileTree.load(5a88619980b10dded106651f76e9b9f1d59ddcd6:.vscode) took 1077 ms (Tree query took 1077 ms)• Loading for path=.vscode failed; HttpError: Not Found
+2025-05-02 13:47:02.402 [warning] [Remote Repositories] [    7] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json) took 48862 ms (Provider query took 12274 ms)
+2025-05-02 13:47:02.403 [warning] [Remote Repositories] [    8] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json) took 48861 ms (Provider query took 12270 ms)
+2025-05-02 13:47:02.404 [warning] [Remote Repositories] [    9] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json) took 48860 ms (Provider query took 12268 ms)
+2025-05-02 13:47:02.406 [warning] [Remote Repositories] [   14] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/extensions) took 4574 ms (Provider query took 4571 ms)
+2025-05-02 13:47:02.407 [warning] [Remote Repositories] [   21] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/extensions.json) took 4533 ms (Provider query took 4529 ms)
+2025-05-02 13:47:02.408 [warning] [Remote Repositories] [    6] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/settings.json) took 48864 ms (Provider query took 278 ms)
+2025-05-02 13:47:02.408 [warning] [Remote Repositories] [    2] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/settings.json) took 48869 ms (Provider query took 12287 ms)
+2025-05-02 13:47:02.409 [warning] [Remote Repositories] [    3] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json) took 48868 ms (Provider query took 12281 ms)
+2025-05-02 13:47:02.409 [warning] [Remote Repositories] [    4] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json) took 48867 ms (Provider query took 12279 ms)
+2025-05-02 13:47:02.410 [warning] [Remote Repositories] [    5] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json) took 48866 ms (Provider query took 12277 ms)
+2025-05-02 13:47:02.412 [info] [Remote Repositories] [   45] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json)
+2025-05-02 13:47:02.414 [warning] [Remote Repositories] [   18] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/extensions.json) took 4549 ms (Provider query took 4546 ms)
+2025-05-02 13:47:02.422 [info] [Remote Repositories] [   46] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json)
+2025-05-02 13:47:02.425 [info] [Remote Repositories] [   45] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json) took 9 ms (Provider query took 2 ms)
+2025-05-02 13:47:02.426 [info] [Remote Repositories] [   46] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json) took 8 ms (Provider query took 3 ms)
+2025-05-02 13:47:02.429 [info] [GitHub Repositories] [   33] FileTree.load(5a88619980b10dded106651f76e9b9f1d59ddcd6:undefined): Tree=5a88619980b10dded106651f76e9b9f1d59ddcd6; Tree query took 1097 ms • Waiting for permissions...
+2025-05-02 13:47:02.430 [info] [GitHub Repositories] [   33] FileTree.load(5a88619980b10dded106651f76e9b9f1d59ddcd6:undefined) Permissions query took 0 ms • Filling trie...
+2025-05-02 13:47:02.431 [warning] [GitHub Repositories] [   33] FileTree.load(5a88619980b10dded106651f76e9b9f1d59ddcd6:undefined) took 1099 ms (Filling trie took 0 ms) • Tree=5a88619980b10dded106651f76e9b9f1d59ddcd6
+2025-05-02 13:47:02.432 [warning] [Remote Repositories] [   19] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.cursor/mcp.json) took 4562 ms (Provider query took 4560 ms)
+2025-05-02 13:47:02.432 [warning] [Remote Repositories] [   20] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.git/config) took 4558 ms (Provider query took 4556 ms)
+2025-05-02 13:47:02.433 [warning] [Remote Repositories] [   16] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.cursor/mcp.json) took 4577 ms (Provider query took 4575 ms)
+2025-05-02 13:47:02.434 [warning] [Remote Repositories] [   17] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.git/config) took 4572 ms (Provider query took 4569 ms)
+2025-05-02 13:47:02.441 [info] [Remote Repositories] [   47] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/extensions.json)
+2025-05-02 13:47:02.441 [info] [Remote Repositories] [   47] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/extensions.json) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.442 [info] [Remote Repositories] [   48] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/extensions.json)
+2025-05-02 13:47:02.444 [info] [Remote Repositories] [   48] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/extensions.json) took 3 ms (Provider query took 2 ms)
+2025-05-02 13:47:02.446 [info] [GitHub Repositories] [  103] FileTree.loadAllContent(5a88619980b10dded106651f76e9b9f1d59ddcd6)
+2025-05-02 13:47:02.447 [info] [Remote Repositories] [   49] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/settings.json)
+2025-05-02 13:47:02.448 [info] [Remote Repositories] [   49] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/settings.json) took 1 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.449 [info] [Remote Repositories] [   50] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/settings.json)
+2025-05-02 13:47:02.450 [info] [Remote Repositories] [   50] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/settings.json) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:02.452 [info] [Remote Repositories] [   51] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json)
+2025-05-02 13:47:02.452 [info] [Remote Repositories] [   51] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.455 [info] [Remote Repositories] [   52] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json)
+2025-05-02 13:47:02.456 [info] [Remote Repositories] [   52] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/tasks.json) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:02.457 [info] [Remote Repositories] [   53] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json)
+2025-05-02 13:47:02.460 [info] [Remote Repositories] [   53] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.461 [info] [Remote Repositories] [   54] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json)
+2025-05-02 13:47:02.463 [info] [Remote Repositories] [   54] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/launch.json) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:02.466 [info] [Remote Repositories] [   55] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json)
+2025-05-02 13:47:02.468 [info] [Remote Repositories] [   55] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json) took 1 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.470 [info] [Remote Repositories] [   56] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json)
+2025-05-02 13:47:02.473 [info] [Remote Repositories] [   56] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/mcp.json) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:02.487 [info] [Remote Repositories] [   57] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.devcontainer/devcontainer.json)
+2025-05-02 13:47:02.488 [info] [Remote Repositories] [   57] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.devcontainer/devcontainer.json) took 5 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.489 [info] [Remote Repositories] [   58] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.devcontainer/devcontainer.json)
+2025-05-02 13:47:02.489 [info] [Remote Repositories] [   58] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.devcontainer/devcontainer.json) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.546 [info] [Remote Repositories] [   59] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/pom.xml)
+2025-05-02 13:47:02.546 [info] [Remote Repositories] [   59] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/pom.xml) took 4 ms (Provider query took 2 ms)
+2025-05-02 13:47:02.547 [info] [Remote Repositories] [   60] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/pom.xml)
+2025-05-02 13:47:02.548 [info] [Remote Repositories] [   60] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/pom.xml) took 4 ms (Provider query took 2 ms)
+2025-05-02 13:47:02.555 [info] [Remote Repositories] [   61] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/build.gradle)
+2025-05-02 13:47:02.558 [info] [Remote Repositories] [   61] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/build.gradle) took 4 ms (Provider query took 2 ms)
+2025-05-02 13:47:02.559 [info] [Remote Repositories] [   62] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/build.gradle)
+2025-05-02 13:47:02.566 [info] [Remote Repositories] [   62] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/build.gradle) took 3 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.574 [info] [Remote Repositories] [   63] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/.github-pull-request.rec)
+2025-05-02 13:47:02.576 [info] [Remote Repositories] [   63] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/.github-pull-request.rec) took 3 ms (Provider query took 2 ms)
+2025-05-02 13:47:02.577 [info] [Remote Repositories] [   64] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/.github-pull-request.rec)
+2025-05-02 13:47:02.578 [info] [Remote Repositories] [   64] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.vscode/.github-pull-request.rec) took 1 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.581 [info] [Remote Repositories] [   65] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/pyproject.toml)
+2025-05-02 13:47:02.583 [info] [Remote Repositories] [   65] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/pyproject.toml) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.585 [info] [Remote Repositories] [   66] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/pyproject.toml)
+2025-05-02 13:47:02.587 [info] [Remote Repositories] [   66] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/pyproject.toml) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.592 [info] [Remote Repositories] [   67] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.pep8)
+2025-05-02 13:47:02.593 [info] [Remote Repositories] [   67] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.pep8) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.595 [info] [Remote Repositories] [   68] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.pep8)
+2025-05-02 13:47:02.597 [info] [Remote Repositories] [   68] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.pep8) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:02.601 [info] [Remote Repositories] [   69] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/setup.cfg)
+2025-05-02 13:47:02.604 [info] [Remote Repositories] [   69] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/setup.cfg) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.606 [info] [Remote Repositories] [   70] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/setup.cfg)
+2025-05-02 13:47:02.606 [info] [Remote Repositories] [   70] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/setup.cfg) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:02.610 [info] [Remote Repositories] [   71] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/tox.ini)
+2025-05-02 13:47:02.611 [info] [Remote Repositories] [   71] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/tox.ini) took 2 ms (Provider query took 0 ms)
+2025-05-02 13:47:02.612 [info] [Remote Repositories] [   72] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/tox.ini)
+2025-05-02 13:47:02.616 [info] [Remote Repositories] [   72] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/tox.ini) took 3 ms (Provider query took 3 ms)
+2025-05-02 13:47:02.619 [info] [Remote Repositories] [   73] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.pylintrc)
+2025-05-02 13:47:02.625 [info] [Remote Repositories] [   73] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.pylintrc) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.626 [info] [Remote Repositories] [   74] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.pylintrc)
+2025-05-02 13:47:02.627 [info] [Remote Repositories] [   74] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.pylintrc) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:02.629 [info] [Remote Repositories] [   75] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/pylintrc)
+2025-05-02 13:47:02.631 [info] [Remote Repositories] [   75] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/pylintrc) took 1 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.640 [info] [Remote Repositories] [   76] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/pylintrc)
+2025-05-02 13:47:02.641 [info] [Remote Repositories] [   76] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/pylintrc) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:02.644 [info] [Remote Repositories] [   77] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.mypy.ini)
+2025-05-02 13:47:02.645 [info] [Remote Repositories] [   77] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.mypy.ini) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:47:02.650 [info] [Remote Repositories] [   78] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.mypy.ini)
+2025-05-02 13:47:02.652 [info] [Remote Repositories] [   78] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.mypy.ini) took 5 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.656 [info] [Remote Repositories] [   79] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.flake8)
+2025-05-02 13:47:02.659 [info] [Remote Repositories] [   79] fs.readFile(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.flake8) took 3 ms (Provider query took 2 ms)
+2025-05-02 13:47:02.661 [info] [Remote Repositories] [   80] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.flake8)
+2025-05-02 13:47:02.663 [info] [Remote Repositories] [   80] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration/.flake8) took 2 ms (Provider query took 1 ms)
+2025-05-02 13:47:02.677 [warning] [GitHub Repositories] [   75] GitHub.getFileList(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 1083 ms
+2025-05-02 13:47:02.679 [error] [Extension Host (Worker)] Activating extension sourcegraph.cody-ai failed due to an error:
+2025-05-02 13:47:02.680 [error] [Extension Host (Worker)] Error: Cannot load module 'node:fs'
+	at f (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:161:483)
+	at eval (https://sourcegraph.vscode-unpkg.net/sourcegraph/cody-ai/1.86.0/extension/dist/extension.web.js#vscode-extension:86046:22)
+	at zF.xb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:161:627)
+	at async Promise.all (index 0)
+	at async j1.n (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:13359)
+	at async j1.m (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:13322)
+	at async j1.l (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:109:12778)
+2025-05-02 13:47:02.837 [warning] [GitHub Repositories] [   77] GitHub.getFileList(github://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 1113 ms
+2025-05-02 13:47:03.530 [info] [GitHub Pull Request] [FolderRepositoryManager+0] Trying to use globalState for assignableUsers.
+2025-05-02 13:47:03.552 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-05-02 13:47:03.565 [info] [GitHub Pull Request] [Review+0] No matching pull request metadata found locally for current branch master
+2025-05-02 13:47:03.620 [error] [GitHub Pull Request] [FolderRepositoryManager+0] Error parsing assignableUsers cache for origin.
+2025-05-02 13:47:03.621 [info] [GitHub Pull Request] [FolderRepositoryManager+0] Using globalState assignableUsers for 1.
+2025-05-02 13:47:04.202 [error] [Window] Cannot install the 'Dev Containers' extension because it is not available in this setup.: Unsupported: Cannot install the 'Dev Containers' extension because it is not available in this setup.
+    at ept.ab (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3290:10497)
+    at ept.installFromGallery (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3290:6920)
+    at async https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:2559:37473
+2025-05-02 13:47:04.207 [info] [GitHub Pull Request] [Review+0] No matching pull request metadata found on GitHub for current branch master
+2025-05-02 13:47:04.989 [info] [Settings Sync] GlobalState: Updated remote ui state. Updated: recently.opened,workbench.activity.pinnedViewlets2,workbench.panel.pinnedPanels.
+2025-05-02 13:47:05.008 [info] [Settings Sync] GlobalState: Updated last synchronized ui state
+2025-05-02 13:47:05.034 [info] [Settings Sync] Extensions: Last sync resource does not exist locally.
+2025-05-02 13:47:05.388 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-05-02 13:47:05.406 [info] [Settings Sync] Prompts: Last sync resource does not exist locally.
+2025-05-02 13:47:05.623 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-05-02 13:47:05.630 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-05-02 13:47:05.635 [info] [Settings Sync] Syncing profile. Untitled
+2025-05-02 13:47:05.640 [info] [Settings Sync] Settings (Untitled): Last sync resource does not exist locally.
+2025-05-02 13:47:05.855 [info] [GitHub Repositories] [   38] TarPit.getTar(github/tr4200812/main-repository-inspiration/5a88619980b10dded106651f76e9b9f1d59ddcd6) Getting .tar from network took 4053 ms • Unzipping .tar...
+2025-05-02 13:47:05.863 [warning] [GitHub Repositories] [   38] TarPit.getTar(github/tr4200812/main-repository-inspiration/5a88619980b10dded106651f76e9b9f1d59ddcd6)Finished getting tar took 4435 ms (Unzipping .tar took 44 ms)
+2025-05-02 13:47:05.863 [info] [GitHub Repositories] Cleaning up search cache...
+2025-05-02 13:47:05.864 [info] [GitHub Repositories] [   38] TarPit.getTar(github/tr4200812/main-repository-inspiration/5a88619980b10dded106651f76e9b9f1d59ddcd6) took 6 ms • Got .tar from network
+2025-05-02 13:47:05.865 [info] [GitHub Repositories] [  103] FileTree.loadAllContent(5a88619980b10dded106651f76e9b9f1d59ddcd6) Tar cache query took 3421 ms • Updating content...
+2025-05-02 13:47:05.874 [warning] [GitHub Repositories] [  103] FileTree.loadAllContent(5a88619980b10dded106651f76e9b9f1d59ddcd6) took 3421 ms (Updating content took 0 ms)
+2025-05-02 13:47:05.891 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email...
+2025-05-02 13:47:05.892 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email...
+2025-05-02 13:47:05.926 [info] [Views] Added views:gitlens.views.graph,gitlens.views.graphDetails in workbench.view.extension.gitlensPanel
+2025-05-02 13:47:05.936 [info] [Views] Added views:gitlens.views.commitDetails,gitlens.views.lineHistory,gitlens.views.fileHistory,gitlens.views.timeline,gitlens.views.searchAndCompare in workbench.view.extension.gitlensInspect
+2025-05-02 13:47:05.938 [info] [Views] Added views:gitlens.views.scm.grouped in workbench.view.scm
+2025-05-02 13:47:06.004 [info] [Settings Sync] Settings (Untitled): No changes found during synchronizing settings.
+2025-05-02 13:47:06.045 [info] [Views] Removed views:gitlens.views.lineHistory from workbench.view.extension.gitlensInspect
+2025-05-02 13:47:06.048 [info] [Views] Removed views:gitlens.views.workspaces,gitlens.views.drafts from workbench.view.extension.gitlens
+2025-05-02 13:47:06.062 [info] [Remote Repositories] [   81] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:06.063 [info] [Remote Repositories] [   81] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 1 ms (Provider query took 1 ms)
+2025-05-02 13:47:06.092 [info] [Settings Sync] GlobalState (Untitled): Last sync resource does not exist locally.
+2025-05-02 13:47:06.333 [info] [Settings Sync] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-05-02 13:47:06.342 [info] [Settings Sync] Prompts (Untitled): Last sync resource does not exist locally.
+2025-05-02 13:47:07.597 [error] [Window] Cannot install the 'Dev Containers' extension because it is not available in this setup.: Unsupported: Cannot install the 'Dev Containers' extension because it is not available in this setup.
+    at ept.ab (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3290:10497)
+    at ept.installFromGallery (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3290:6920)
+    at async https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:2559:37473
+2025-05-02 13:47:07.803 [info] [Settings Sync] Prompts (Untitled): No changes found during synchronizing prompts.
+2025-05-02 13:47:07.809 [info] [Settings Sync] Sync done. Took 54979ms
+2025-05-02 13:47:07.811 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-05-02 13:47:07.811 [info] [Settings Sync] Sync started.
+2025-05-02 13:47:08.280 [error] [Settings Sync] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at SEe.Tb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:58060)
+    at SEe.ob (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:53939)
+    at async SEe.db (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:26501)
+2025-05-02 13:47:08.280 [error] [Settings Sync] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-05-02 13:47:08.290 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-05-02 13:47:08.326 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-05-02 13:47:08.341 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-05-02 13:47:08.376 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-05-02 13:47:08.503 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-05-02 13:47:08.512 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-05-02 13:47:08.516 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-05-02 13:47:08.520 [info] [Settings Sync] Syncing profile. Untitled
+2025-05-02 13:47:08.526 [info] [Settings Sync] Settings (Untitled): No changes found during synchronizing settings.
+2025-05-02 13:47:08.532 [info] [Settings Sync] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-05-02 13:47:08.535 [info] [Settings Sync] Prompts (Untitled): No changes found during synchronizing prompts.
+2025-05-02 13:47:08.536 [info] [Settings Sync] Sync done. Took 725ms
+2025-05-02 13:47:08.538 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-05-02 13:47:08.538 [info] [Settings Sync] Sync started.
+2025-05-02 13:47:08.958 [error] [Settings Sync] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at SEe.Tb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:58060)
+    at SEe.ob (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:53939)
+    at async SEe.db (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:26501)
+2025-05-02 13:47:08.958 [error] [Settings Sync] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-05-02 13:47:08.967 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-05-02 13:47:08.990 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-05-02 13:47:08.997 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-05-02 13:47:09.016 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-05-02 13:47:09.149 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-05-02 13:47:09.167 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-05-02 13:47:09.174 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-05-02 13:47:09.210 [info] [Settings Sync] Syncing profile. Untitled
+2025-05-02 13:47:09.223 [info] [Settings Sync] Settings (Untitled): No changes found during synchronizing settings.
+2025-05-02 13:47:09.228 [info] [Settings Sync] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-05-02 13:47:09.236 [info] [Settings Sync] Prompts (Untitled): No changes found during synchronizing prompts.
+2025-05-02 13:47:09.237 [info] [Settings Sync] Sync done. Took 699ms
+2025-05-02 13:47:09.897 [info] [Vim] Active editor: vscode-userdata:/User/settings.json
+2025-05-02 13:47:10.092 [info] [JSON Language Server] read schema from vscode: vscode://schemas/settings/user
+2025-05-02 13:47:10.429 [info] [JSON Language Server] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-05-02 13:47:10.436 [info] [JSON Language Server] read schema from vscode: vscode://schemas/ignoredSettings
+2025-05-02 13:47:10.448 [info] [JSON Language Server] read schema from vscode: vscode://schemas/launch
+2025-05-02 13:47:10.451 [info] [JSON Language Server] read schema from vscode: vscode://schemas/mcp
+2025-05-02 13:47:10.458 [info] [JSON Language Server] read schema from vscode: vscode://schemas/token-styling
+2025-05-02 13:47:10.461 [info] [JSON Language Server] read schema from vscode: vscode://schemas/textmate-colors
+2025-05-02 13:47:10.474 [info] [JSON Language Server] read schema from vscode: vscode://schemas/workbench-colors
+2025-05-02 13:47:10.558 [error] [Window] Cannot install the 'Dev Containers' extension because it is not available in this setup.: Unsupported: Cannot install the 'Dev Containers' extension because it is not available in this setup.
+    at ept.ab (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3290:10497)
+    at ept.installFromGallery (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3290:6920)
+    at async https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:2559:37473
+2025-05-02 13:47:10.889 [info] [JSON Language Server] schema change detected vscode://schemas/settings/user
+2025-05-02 13:47:12.210 [info] [JSON Language Server] read schema from vscode: vscode://schemas/settings/user
+2025-05-02 13:47:13.217 [error] [Window] Cannot install the 'Dev Containers' extension because it is not available in this setup.: Unsupported: Cannot install the 'Dev Containers' extension because it is not available in this setup.
+    at ept.ab (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3290:10497)
+    at ept.installFromGallery (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3290:6920)
+    at async https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:2559:37473
+2025-05-02 13:47:40.268 [info] [Vim] Active editor: vscode-userdata:/User/settings.json
+2025-05-02 13:47:40.418 [info] [Remote Repositories] [   82] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:40.419 [info] [Remote Repositories] [   82] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 7 ms (Provider query took 6 ms)
+2025-05-02 13:47:40.444 [info] [Remote Repositories] [   83] fs.readDirectory(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:47:40.452 [info] [Remote Repositories] [   83] fs.readDirectory(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 11 ms (Provider query took 7 ms)
+2025-05-02 13:47:40.957 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-05-02 13:47:40.957 [info] [Settings Sync] Sync started.
+2025-05-02 13:47:41.301 [info] [JSON Language Server] schema change detected vscode://schemas/settings/user
+2025-05-02 13:47:41.391 [info] [JSON Language Server] read schema from vscode: vscode://schemas/settings/user
+2025-05-02 13:47:42.347 [error] [Settings Sync] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at SEe.Tb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:58060)
+    at SEe.ob (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:53939)
+    at async SEe.db (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:26501)
+2025-05-02 13:47:42.347 [error] [Settings Sync] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-05-02 13:47:42.357 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-05-02 13:47:42.374 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-05-02 13:47:42.389 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-05-02 13:47:42.404 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-05-02 13:47:42.488 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-05-02 13:47:42.513 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-05-02 13:47:42.542 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-05-02 13:47:42.554 [info] [Settings Sync] Syncing profile. Untitled
+2025-05-02 13:47:42.603 [info] [Settings Sync] Settings (Untitled): No changes found during synchronizing settings.
+2025-05-02 13:47:42.626 [info] [Settings Sync] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-05-02 13:47:42.642 [info] [Settings Sync] Prompts (Untitled): No changes found during synchronizing prompts.
+2025-05-02 13:47:42.649 [info] [Settings Sync] Sync done. Took 1691ms
+2025-05-02 13:47:50.053 [info] [GitHub Repositories] [  141] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined)
+2025-05-02 13:47:50.087 [info] [GitHub Repositories] [  142] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined)
+2025-05-02 13:47:50.089 [info] [GitHub Repositories] [  142] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined) took 7 ms • Unable to fetch branch tips
+2025-05-02 13:47:50.092 [error] [GitHub Repositories] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2025-05-02 13:47:50.706 [warning] [GitHub Repositories] [  141] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined) took 653 ms • No changes detected
+2025-05-02 13:47:52.820 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-05-02 13:47:52.820 [info] [Settings Sync] Sync started.
+2025-05-02 13:47:53.256 [error] [Settings Sync] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at SEe.Tb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:58060)
+    at SEe.ob (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:53939)
+    at async SEe.db (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:26501)
+2025-05-02 13:47:53.256 [error] [Settings Sync] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-05-02 13:47:53.268 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-05-02 13:47:53.284 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-05-02 13:47:53.289 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-05-02 13:47:53.298 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-05-02 13:47:53.506 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-05-02 13:47:53.516 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-05-02 13:47:53.519 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-05-02 13:47:53.521 [info] [Settings Sync] Syncing profile. Untitled
+2025-05-02 13:47:53.527 [info] [Settings Sync] Settings (Untitled): No changes found during synchronizing settings.
+2025-05-02 13:47:53.535 [info] [Settings Sync] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-05-02 13:47:53.539 [info] [Settings Sync] Prompts (Untitled): No changes found during synchronizing prompts.
+2025-05-02 13:47:53.540 [info] [Settings Sync] Sync done. Took 719ms
+2025-05-02 13:48:03.485 [info] [Vim] Active editor: vscode://schemas/settings/user
+2025-05-02 13:48:03.762 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-05-02 13:48:04.046 [info] [Window] Migrating workspace extension storage from grapecity.gc-excelviewer to GrapeCity.gc-excelviewer...
+2025-05-02 13:48:04.047 [info] [Window] Migrated workspace extension storage from grapecity.gc-excelviewer to GrapeCity.gc-excelviewer
+2025-05-02 13:48:04.051 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-05-02 13:48:04.055 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-05-02 13:48:04.057 [info] [Window] Migrating workspace extension storage from vue.volar to Vue.volar...
+2025-05-02 13:48:04.058 [info] [Window] Migrated workspace extension storage from vue.volar to Vue.volar
+2025-05-02 13:48:04.978 [info] [JSON Language Server] schema change detected vscode://schemas/settings/user
+2025-05-02 13:48:05.072 [info] [JSON Language Server] read schema from vscode: vscode://schemas/settings/user
+2025-05-02 13:48:11.076 [info] [Vim] /settings/user closed
+2025-05-02 13:48:15.627 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-05-02 13:48:15.633 [info] [Settings Sync] Sync started.
+2025-05-02 13:48:16.133 [error] [Settings Sync] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at SEe.Tb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:58060)
+    at SEe.ob (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:53939)
+    at async SEe.db (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:26501)
+2025-05-02 13:48:16.134 [error] [Settings Sync] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-05-02 13:48:16.152 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-05-02 13:48:16.183 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-05-02 13:48:16.193 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-05-02 13:48:16.220 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-05-02 13:48:16.404 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-05-02 13:48:16.411 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-05-02 13:48:16.416 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-05-02 13:48:16.422 [info] [Settings Sync] Syncing profile. Untitled
+2025-05-02 13:48:16.430 [info] [Settings Sync] Settings (Untitled): No changes found during synchronizing settings.
+2025-05-02 13:48:16.435 [info] [Settings Sync] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-05-02 13:48:16.439 [info] [Settings Sync] Prompts (Untitled): No changes found during synchronizing prompts.
+2025-05-02 13:48:16.441 [info] [Settings Sync] Sync done. Took 807ms
+2025-05-02 13:48:25.259 [info] [Remote Repositories] [   84] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:48:25.260 [info] [Remote Repositories] [   84] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 14 ms (Provider query took 10 ms)
+2025-05-02 13:48:25.279 [info] [Remote Repositories] [   85] fs.readDirectory(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:48:25.290 [info] [Remote Repositories] [   85] fs.readDirectory(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 15 ms (Provider query took 14 ms)
+2025-05-02 13:48:26.058 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-05-02 13:48:26.059 [info] [Settings Sync] Sync started.
+2025-05-02 13:48:26.661 [error] [Settings Sync] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at SEe.Tb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:58060)
+    at SEe.ob (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:53939)
+    at async SEe.db (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:26501)
+2025-05-02 13:48:26.661 [error] [Settings Sync] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-05-02 13:48:26.672 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-05-02 13:48:26.712 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-05-02 13:48:26.718 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-05-02 13:48:26.731 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-05-02 13:48:27.001 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-05-02 13:48:27.200 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-05-02 13:48:27.231 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-05-02 13:48:27.254 [info] [Settings Sync] Syncing profile. Untitled
+2025-05-02 13:48:27.352 [info] [Settings Sync] Settings (Untitled): No changes found during synchronizing settings.
+2025-05-02 13:48:27.360 [info] [Settings Sync] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-05-02 13:48:27.366 [info] [Settings Sync] Prompts (Untitled): No changes found during synchronizing prompts.
+2025-05-02 13:48:27.368 [info] [Settings Sync] Sync done. Took 1309ms
+2025-05-02 13:48:27.858 [info] [Remote Repositories] [   86] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:48:27.859 [info] [Remote Repositories] [   86] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 1 ms (Provider query took 0 ms)
+2025-05-02 13:48:27.871 [info] [Remote Repositories] [   87] fs.readDirectory(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:48:27.878 [info] [Remote Repositories] [   87] fs.readDirectory(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 5 ms (Provider query took 4 ms)
+2025-05-02 13:48:32.248 [info] [Vim] Active editor: vscode://schemas/settings/user
+2025-05-02 13:48:35.452 [info] [JSON Language Server] schema change detected vscode://schemas/settings/user
+2025-05-02 13:48:35.516 [info] [JSON Language Server] read schema from vscode: vscode://schemas/settings/user
+2025-05-02 13:48:37.778 [info] [JSON Language Server] schema change detected vscode://schemas/settings/user
+2025-05-02 13:48:48.826 [info] [Vim] /settings/user closed
+2025-05-02 13:48:50.085 [info] [GitHub Repositories] [  147] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined)
+2025-05-02 13:48:50.085 [info] [GitHub Repositories] [  147] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined) took 1 ms • Unable to fetch branch tips
+2025-05-02 13:48:50.086 [error] [GitHub Repositories] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2025-05-02 13:48:50.583 [error] [Window] EntryNotFound
+2025-05-02 13:48:50.710 [info] [GitHub Repositories] [  148] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined)
+2025-05-02 13:48:51.509 [warning] [GitHub Repositories] [  148] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined) took 800 ms • No changes detected
+2025-05-02 13:49:01.501 [error] [Window] EntryNotFound
+2025-05-02 13:49:02.590 [error] [Window] EntryNotFound
+2025-05-02 13:49:13.226 [warning] [Window] Settings pattern "application.experimental.*" doesn't match any settings
+2025-05-02 13:49:13.227 [warning] [Window] Settings pattern "application.*" doesn't match any settings
+2025-05-02 13:49:13.228 [warning] [Window] Settings pattern "security.*" doesn't match any settings
+2025-05-02 13:49:13.689 [warning] [Window] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-02 13:49:14.605 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-05-02 13:49:14.605 [info] [Settings Sync] Sync started.
+2025-05-02 13:49:14.991 [error] [Settings Sync] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at SEe.Tb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:58060)
+    at SEe.ob (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:53939)
+    at async SEe.db (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:26501)
+2025-05-02 13:49:14.991 [error] [Settings Sync] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-05-02 13:49:15.008 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-05-02 13:49:15.048 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-05-02 13:49:15.060 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-05-02 13:49:15.084 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-05-02 13:49:15.241 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-05-02 13:49:15.248 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-05-02 13:49:15.254 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-05-02 13:49:15.271 [info] [Settings Sync] Syncing profile. Untitled
+2025-05-02 13:49:15.281 [info] [Settings Sync] Settings (Untitled): No changes found during synchronizing settings.
+2025-05-02 13:49:15.290 [info] [Settings Sync] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-05-02 13:49:15.298 [info] [Settings Sync] Prompts (Untitled): No changes found during synchronizing prompts.
+2025-05-02 13:49:15.301 [info] [Settings Sync] Sync done. Took 695ms
+2025-05-02 13:49:26.593 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-05-02 13:49:26.593 [info] [Settings Sync] Sync started.
+2025-05-02 13:49:27.090 [error] [Settings Sync] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at SEe.Tb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:58060)
+    at SEe.ob (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:53939)
+    at async SEe.db (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:26501)
+2025-05-02 13:49:27.090 [error] [Settings Sync] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-05-02 13:49:27.118 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-05-02 13:49:27.167 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-05-02 13:49:27.184 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-05-02 13:49:27.221 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-05-02 13:49:27.545 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-05-02 13:49:27.608 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-05-02 13:49:27.618 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-05-02 13:49:27.622 [info] [Settings Sync] Syncing profile. Untitled
+2025-05-02 13:49:27.628 [info] [Settings Sync] Settings (Untitled): No changes found during synchronizing settings.
+2025-05-02 13:49:27.632 [info] [Settings Sync] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-05-02 13:49:27.637 [info] [Settings Sync] Prompts (Untitled): No changes found during synchronizing prompts.
+2025-05-02 13:49:27.638 [info] [Settings Sync] Sync done. Took 1045ms
+2025-05-02 13:49:37.879 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-05-02 13:49:37.879 [info] [Settings Sync] Sync started.
+2025-05-02 13:49:38.250 [error] [Settings Sync] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at SEe.Tb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:58060)
+    at SEe.ob (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:53939)
+    at async SEe.db (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:26501)
+2025-05-02 13:49:38.250 [error] [Settings Sync] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-05-02 13:49:38.260 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-05-02 13:49:38.279 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-05-02 13:49:38.292 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-05-02 13:49:38.309 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-05-02 13:49:38.522 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-05-02 13:49:38.540 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-05-02 13:49:38.550 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-05-02 13:49:38.552 [info] [Settings Sync] Syncing profile. Untitled
+2025-05-02 13:49:38.557 [info] [Settings Sync] Settings (Untitled): No changes found during synchronizing settings.
+2025-05-02 13:49:38.561 [info] [Settings Sync] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-05-02 13:49:38.563 [info] [Settings Sync] Prompts (Untitled): No changes found during synchronizing prompts.
+2025-05-02 13:49:38.564 [info] [Settings Sync] Sync done. Took 685ms
+2025-05-02 13:49:50.092 [info] [GitHub Repositories] [  149] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined)
+2025-05-02 13:49:50.097 [info] [GitHub Repositories] [  149] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined) took 5 ms • Unable to fetch branch tips
+2025-05-02 13:49:50.101 [error] [GitHub Repositories] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2025-05-02 13:49:51.516 [info] [GitHub Repositories] [  150] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined)
+2025-05-02 13:49:52.078 [warning] [GitHub Repositories] [  150] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined) took 564 ms • No changes detected
+2025-05-02 13:49:52.886 [warning] [Window] Settings pattern "application.experimental.*" doesn't match any settings
+2025-05-02 13:49:52.887 [warning] [Window] Settings pattern "application.*" doesn't match any settings
+2025-05-02 13:49:52.888 [warning] [Window] Settings pattern "security.*" doesn't match any settings
+2025-05-02 13:49:53.070 [warning] [Window] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-02 13:49:53.944 [warning] [Window] Settings pattern "application.experimental.*" doesn't match any settings
+2025-05-02 13:49:53.944 [warning] [Window] Settings pattern "application.*" doesn't match any settings
+2025-05-02 13:49:53.944 [warning] [Window] Settings pattern "security.*" doesn't match any settings
+2025-05-02 13:49:54.018 [warning] [Window] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-02 13:49:56.134 [info] [Vim] Active editor: vscode://schemas/settings/user
+2025-05-02 13:50:01.916 [info] [Vim] amazonwebservices.amazon-q-vscode.Amazon Q Logs closed
+2025-05-02 13:50:05.072 [info] [Vim] Active editor: output:GitHub.remotehub.GitHub%20Repositories
+2025-05-02 13:50:06.834 [info] [Vim] Active editor: output:extension-output-esbenp.prettier-vscode-%231-Prettier
+2025-05-02 13:50:06.861 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension RokuCommunity.brightscript, startup: false, activationEvent: 'onLanguage:Log'
+2025-05-02 13:50:06.865 [info] [Window] Migrating workspace extension storage from rokucommunity.brightscript to RokuCommunity.brightscript...
+2025-05-02 13:50:06.866 [info] [Window] Migrated workspace extension storage from rokucommunity.brightscript to RokuCommunity.brightscript
+2025-05-02 13:50:07.267 [info] [Window] Request to 'https://rokucommunity.vscode-unpkg.net/RokuCommunity/brightscript/2.55.2/extension/log.configuration.json' failed with status code 404
+2025-05-02 13:50:07.424 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email...
+2025-05-02 13:50:07.425 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email...
+2025-05-02 13:50:09.789 [info] [Vim] /User/settings.json closed
+2025-05-02 13:50:12.645 [info] [Remote Repositories] [   88] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration)
+2025-05-02 13:50:12.648 [info] [Remote Repositories] [   88] fs.stat(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration) took 3 ms (Provider query took 1 ms)
+2025-05-02 13:50:19.680 [info] [GitLens] [2025-05-02 06:50:19.177] searchProviderMyIssues
+TypeError: Failed to fetch
+
+2025-05-02 13:50:24.595 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-05-02 13:50:24.596 [info] [Settings Sync] Sync started.
+2025-05-02 13:50:25.189 [error] [Settings Sync] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at SEe.Tb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:58060)
+    at SEe.ob (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:53939)
+    at async SEe.db (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:26501)
+2025-05-02 13:50:25.189 [error] [Settings Sync] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-05-02 13:50:25.204 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-05-02 13:50:25.243 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-05-02 13:50:25.444 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-05-02 13:50:25.459 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-05-02 13:50:25.723 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-05-02 13:50:25.730 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-05-02 13:50:25.734 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-05-02 13:50:25.739 [info] [Settings Sync] Syncing profile. Untitled
+2025-05-02 13:50:25.745 [info] [Settings Sync] Settings (Untitled): No changes found during synchronizing settings.
+2025-05-02 13:50:25.749 [info] [Settings Sync] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-05-02 13:50:25.752 [info] [Settings Sync] Prompts (Untitled): No changes found during synchronizing prompts.
+2025-05-02 13:50:25.753 [info] [Settings Sync] Sync done. Took 1157ms
+2025-05-02 13:50:33.910 [info] [Vim] Active editor: output:eamodio.gitlens.GitLens
+2025-05-02 13:50:45.420 [info] [Vim] Active editor: output:extension-output-esbenp.prettier-vscode-%231-Prettier
+2025-05-02 13:50:47.382 [info] [Vim] Active editor: output:extension-output-esbenp.prettier-vscode-%231-Prettier
+2025-05-02 13:50:50.109 [info] [GitHub Repositories] [  152] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined)
+2025-05-02 13:50:50.116 [info] [GitHub Repositories] [  152] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined) took 4 ms • Unable to fetch branch tips
+2025-05-02 13:50:50.118 [error] [GitHub Repositories] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2025-05-02 13:50:52.096 [info] [GitHub Repositories] [  153] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined)
+2025-05-02 13:50:52.848 [warning] [GitHub Repositories] [  153] GitHub.fetch(vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a342c226964223a226d6173746572227d7d/tr4200812/main-repository-inspiration, force=undefined, to=undefined) took 764 ms • No changes detected
+2025-05-02 13:51:00.933 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-05-02 13:51:00.933 [info] [Settings Sync] Sync started.
+2025-05-02 13:51:01.528 [error] [Settings Sync] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at SEe.Tb (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:58060)
+    at SEe.ob (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:3256:53939)
+    at async SEe.db (https://main.vscode-cdn.net/stable/17baf841131aa23349f217ca7c570c76ee87b957/out/vs/workbench/workbench.web.main.internal.js:1886:26501)
+2025-05-02 13:51:01.528 [error] [Settings Sync] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-05-02 13:51:01.551 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-05-02 13:51:01.640 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-05-02 13:51:01.663 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-05-02 13:51:01.707 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-05-02 13:51:02.759 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-05-02 13:51:02.841 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-05-02 13:51:02.864 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-05-02 13:51:02.925 [info] [Settings Sync] Syncing profile. Untitled
+2025-05-02 13:51:02.938 [info] [Settings Sync] Settings (Untitled): No changes found during synchronizing settings.
+2025-05-02 13:51:02.946 [info] [Settings Sync] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-05-02 13:51:02.951 [info] [Settings Sync] Prompts (Untitled): No changes found during synchronizing prompts.
+2025-05-02 13:51:02.952 [info] [Settings Sync] Sync done. Took 2019ms
+2025-05-02 13:51:03.636 [info] [Vim] /settings/user closed
+2025-05-02 13:51:35.335 [info] [Amazon Q Logs] telemetry: sent batch (size=9)
